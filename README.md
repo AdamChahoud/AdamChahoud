@@ -1,4 +1,9 @@
-## Hi there 👋
+<h2 align="center">Adam Chahoud</h2>
+
+<p align="center">
+  MSc Computer Science · KTH Royal Institute of Technology<br>
+  Data Science (CSDA) · Machine Learning
+</p>
 
 <!--
 **AdamChahoud/AdamChahoud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
